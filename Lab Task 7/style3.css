@@ -1,0 +1,18 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+.abc
+{
+	height: 445px;
+	width: 100%;
+	background-color: #466478;
+}
+#a1
+{
+	text-align: center;
+	text-transform: uppercase;
+	padding-top: 140px;
+	padding-bottom: 50px;
+}
